@@ -221,3 +221,7 @@ Created as part of the Creative Upaay Full Stack Development assignment.
 - Figma design specifications provided by Creative Upaay
 - React and Next.js communities for excellent documentation
 - Tailwind CSS for the utility-first approach
+
+---
+
+**Note**: This project demonstrates proficiency in modern React development, state management, responsive design, and attention to design details. It showcases the ability to translate design specifications into functional, production-ready code.
